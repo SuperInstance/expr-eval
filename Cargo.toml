@@ -1,9 +1,11 @@
 [package]
 name = "expr-eval"
 version = "0.1.0"
-description = "A Rust library for Expr Eval"
+description = "Expr Eval — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/expr-eval"
+repository = "https://github.com/SuperInstance/expr-eval"
 edition = "2021"
+
+keywords = ["expr-eval"]
 
 [dependencies]
